@@ -1,12 +1,14 @@
+> **本仓库已归档**：项目已迁移到 [H-Canopy/dsh-whale-song](https://github.com/H-Canopy/dsh-whale-song)。这里只作历史存档，不再更新。
+
 # 鲸歌 · WhaleSong
 
 鲸歌是由H-Canopy独立维护的桌面伙伴项目，支持角色互动、任务状态反馈、DSH对话与钱包联动，以及音乐控制。
 
 **程序代码开放，正式角色资产不随仓库提供。** 本仓库提供通用鲸鱼示例用于运行与开发；正式鲸歌的动画视频、高清母图、表情图集、源工程和生成提示词保留在本地。
 
-![鲸歌待机展示](docs/images/whalesong-preview.png)
+![公开示例：通用鲸鱼（DEMO）](assets/demo-whale.svg)
 
-上图为低分辨率展示图，仅用于项目介绍，不是可下载的正式素材包。图片使用范围见[资产说明](ASSET_POLICY.md)。
+公开示例只带标着 DEMO 的通用鲸鱼；正式形象不随仓库提供。
 
 ## 运行公开示例
 
